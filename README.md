@@ -1,0 +1,1 @@
+# sequelize-list-by-distance
